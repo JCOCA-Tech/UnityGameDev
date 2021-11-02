@@ -5,4 +5,4 @@
 
         Pong (A simple pong game that can be played by two players controls are W and S or Arrow-up or Arrow-down)
 
-        TicTacToe (in development)
+        TicTacToe (A simple tictactoe game that can be played by two players)
